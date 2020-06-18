@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-15T14:13:10 EDT" name="Default suite" finished-at="2020-06-15T14:13:22 EDT" duration-ms="11348">
+    <groups>
+    </groups>
+    <test started-at="2020-06-15T14:13:10 EDT" name="Default test" finished-at="2020-06-15T14:13:22 EDT" duration-ms="11348">
+      <class name="test_package.test">
+        <test-method is-config="true" signature="Set_up()[pri:0, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:10 EDT" name="Set_up" finished-at="2020-06-15T14:13:19 EDT" duration-ms="8613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_up -->
+        <test-method signature="signon()[pri:0, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:19 EDT" name="signon" finished-at="2020-06-15T14:13:20 EDT" duration-ms="956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signon -->
+        <test-method signature="register()[pri:1, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:20 EDT" name="register" finished-at="2020-06-15T14:13:20 EDT" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="emaill()[pri:2, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:20 EDT" name="emaill" finished-at="2020-06-15T14:13:22 EDT" duration-ms="1164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emaill -->
+        <test-method signature="contact()[pri:3, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:22 EDT" name="contact" finished-at="2020-06-15T14:13:22 EDT" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_package.test@79efed2d]" started-at="2020-06-15T14:13:22 EDT" name="close" finished-at="2020-06-15T14:13:22 EDT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test_package.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
